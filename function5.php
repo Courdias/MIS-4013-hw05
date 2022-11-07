@@ -10,9 +10,8 @@
   function getImagePath() {
   return "https://www.ru.nl/publish/pages/947657/flying_circus_meme.jpg";
 }
-      <img src onerror="this.onerror=null; this.src=getImagePath();">  
 
-function PrintImage(){
+function PrintImage() {
         document.getElementById('spain').innerHTML = getImagePath();
 }
         </script>
