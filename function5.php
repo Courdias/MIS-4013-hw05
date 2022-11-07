@@ -3,18 +3,9 @@
 ?>
 
 	<div>
-		<h1>GeeksforGeeks</h1>
-		<h3>Click on the button to see image</h3>
-
-		<!-- img element without src attribute -->
 		<img id="image" src="" />
+		      <button class="btn" onclick='Show()' id=btnID>Surprise</button>
 	</div>
-
-	<button type="button"
-		onclick="show()" id="btnID">
-		Show Image
-	</button>
-
 	<script>
 		function show() {
 
@@ -29,6 +20,5 @@
 					.style.display = "none";
 		}
 	</script>
-
     </body>
 </html>
