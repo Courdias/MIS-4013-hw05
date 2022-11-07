@@ -19,7 +19,7 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function1.html">Function 1</a>
+          <a class="nav-link active" aria-current="page" href="function1.php">Function 1</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="function2.html">Function 2</a>
