@@ -10,8 +10,9 @@
   function getImagePath() {
   return "https://www.ru.nl/publish/pages/947657/flying_circus_meme.jpg";
 }
+
+          </script>
         <img src onerror="this.onerror=null; this.src=getImagePath();">  
 
-        </script>
     </body>
 </html>
