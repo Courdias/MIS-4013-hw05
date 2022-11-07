@@ -9,8 +9,12 @@
 <script>
 
 function PrintImage() {
-        document.getElementById('spain').innerHTML = "https://www.ru.nl/publish/pages/947657/flying_circus_meme.jpg";
+        document.getElementById('spain').innerHTML = Image();
       }
+  
+function Image(){
+    return "https://www.ru.nl/publish/pages/947657/flying_circus_meme.jpg";
+  }
           </script>
         <img src onerror="this.onerror=null; this.src=getImagePath();">  
 
