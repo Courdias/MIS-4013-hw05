@@ -9,8 +9,7 @@
 <script>
   function writeValue() {
         document.getElementById('RNG').innerHTML = Math.floor(Math.random() * 10);
-        <br/>document.getElementById('RNG').innerHTML = 'Did you guess correctly?';
-
+        document.getElementById('RNG').innerHTML = 'Did you guess correctly?';
       }
         </script>
     </body>
