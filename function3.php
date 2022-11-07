@@ -9,6 +9,7 @@
 <script>
   function RandomNum() {
         document.getElementById('RNG').innerHTML = Math.floor(Math.random() * 10);
+    return "Did you guess correctly?";
   }
         </script>
 <div>Did you guess correctly?</div>
