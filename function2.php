@@ -9,7 +9,7 @@
 <script>
   const d = new Date();
   function writeValue() {
-        document.getElementById('date').innerHTML = 'd';
+        document.getElementById('date').innerHTML = d;
       }
         </script>
     </body>
