@@ -11,7 +11,7 @@ function myFunction(a, b) {
   return a * b;
 }
   function Multiply(){
-document.getElementById("math").innerHTML = myFunction(10, 2); 
+document.getElementById("math").innerHTML = myFunction(10, 2); //edit here to change numbers being multiplied
   }
         </script>
     </body>
