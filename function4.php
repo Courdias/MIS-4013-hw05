@@ -15,7 +15,8 @@
                 function RandomNum() {
                 var a = Math.floor(Math.random() * 10)
                 return document.getElementById('RNG').innerHTML = a;
-          
+</script>
+<script>
                 function Multiply(a, b) {
                           return a * b;
                 }
