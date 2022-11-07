@@ -22,16 +22,16 @@
           <a class="nav-link active" aria-current="page" href="function1.php">Function 1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function2.html">Function 2</a>
+          <a class="nav-link active" aria-current="page" href="function2.php">Function 2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function3.html">Function 3</a>
+          <a class="nav-link active" aria-current="page" href="function3.php">Function 3</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function4.html">Function 4</a>
+          <a class="nav-link active" aria-current="page" href="function4.php">Function 4</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function5.html">Function 5</a>
+          <a class="nav-link active" aria-current="page" href="function5.php">Function 5</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
