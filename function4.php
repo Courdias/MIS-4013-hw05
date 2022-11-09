@@ -1,6 +1,17 @@
 <?php
   include "header.php";
 ?>
+<form>
+                <label>Number 1: </label>
+                <input type="text" name="a" placeholder="Number 1 here"/>
+                <br/>
+
+                <label>Number 2:  </label>
+                <input type="text" name="b" placeholder="Number 2 here" />
+                <br/>
+
+                <button class="btn btn-primary btn-sm" type="submit">Submit</button>
+</form>
 <div class="container">
       <p id="math"></p>
       <button class="btn" onclick='PrintProduct()'>Multiply 10*2</button>
@@ -11,7 +22,7 @@
                           return a * b;
                 }
                 function PrintProduct(){
-                          document.getElementById("math").innerHTML = Multiply(10, 2); //edit here to change numbers being multiplied
+                          document.getElementById("math").innerHTML = Multiply(a, b); //edit here to change numbers being multiplied
                 }
         </script>
     </body>
