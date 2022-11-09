@@ -20,7 +20,7 @@
           var a = document.getElementById('a').value;
           var b = document.getElementById('b').value;
                 function Multiply(a, b) {
-                          document.getElementById("math").innerHTML = a * b;
+                          document.getElementById("math").value = a * b;
                 }
         </script>
     </body>
