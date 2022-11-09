@@ -22,7 +22,9 @@
                 function Multiply() {
                           document.getElementById("math").value = a * b;
                 }
-
+                function PrintProduct(){
+                          return document.getElementById('math').innerHTML =  Multiply();
+                }
             
         </script>
     </body>
