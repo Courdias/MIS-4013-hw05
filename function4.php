@@ -3,11 +3,11 @@
 ?>
 <form>
                 <label>Number 1: </label>
-                <input type="text" name="a" placeholder="Number 1 here"/>
+                <input type="text" id="a" placeholder="Number 1 here"/>
                 <br/>
 
                 <label>Number 2:  </label>
-                <input type="text" name="b" placeholder="Number 2 here" />
+                <input type="text" id="b" placeholder="Number 2 here" />
                 <br/>
 </form>
 
