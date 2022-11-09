@@ -19,7 +19,7 @@
         <script>
           var a = document.getElementById('a').value;
           var b = document.getElementById('b').value;
-                function Multiply(a, b) {
+                function Multiply() {
                           document.getElementById("math").value = a * b;
                 }
         </script>
